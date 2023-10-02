@@ -8,4 +8,8 @@ python-dotenv
 scikit-learn
 catboost
 xgboost
+Flask
+dill
+mlflow==2.2.2
+
 #-e .
